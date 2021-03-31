@@ -1,6 +1,6 @@
 NEUQ 本科毕业设计论文 LaTex 模板
 
-=============================
+=======
 
 [东北大学秦皇岛分校](http://www.neuq.edu.cn/) 2020年本科毕业论文 [LaTex](https://www.latex-project.org/) 模板，根据2020年毕设doc文档格式修改而来。
 
