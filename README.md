@@ -1,6 +1,8 @@
 NEUQ 本科毕业设计论文 LaTex 模板
 
 =======
+** 不要试图使用latex写毕业论文，因为最后电子版提交要求用word格式！！！ **
+** 本模板仅供玩耍！！! **
 
 [东北大学秦皇岛分校](http://www.neuq.edu.cn/) 2020年本科毕业论文 [LaTex](https://www.latex-project.org/) 模板，根据2020年毕设doc文档格式修改而来。
 
@@ -32,7 +34,7 @@ LaTeX， 是一种基于TEX的排版系统，由美国电脑学家莱斯利·兰
 
 编辑器：[Visual Studio Code](https://code.visualstudio.com/)
 
-Tex发行版：[CTex](http://www.ctex.org/HomePage)
+Tex发行版：[Tex Live](https://tug.org/texlive/)
 
 #### 参考资料
 
