@@ -1,15 +1,15 @@
 NEUQ 本科毕业设计论文 LaTex 模板
-
 =======
 
-** 不要试图使用latex写毕业论文，因为最后电子版提交要求用word格式！！！ **
-** 本模板仅供玩耍！！! **
+**不要试图使用latex写毕业论文，因为最后电子版提交要求用word格式！！！**
+
+**本模板仅供玩耍！！！**
 
 [东北大学秦皇岛分校](http://www.neuq.edu.cn/) 2020年本科毕业论文 [LaTex](https://www.latex-project.org/) 模板，根据2020年毕设doc文档格式修改而来。
 
 原始模板[PaperLatexTemplate](https://github.com/techflowing/PaperLaTexTemplate)来自一位学长 `coffin`，在完成毕业论文的过程中，深刻体验到 LaTex 排版的干净整洁，以及修改格式的方便快捷，特此分享出来。
 
-初次修改，可能还存在不符合毕设要求的地方，欢迎提出意见和改进建议。
+初次修改，可能还存在不符合毕设要求的地方，欢迎issue和PR。
 
 <!-- more -->
 
